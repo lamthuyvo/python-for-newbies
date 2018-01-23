@@ -1,5 +1,5 @@
 # python-for-newbies
-Materials for [Intro to Python at NICAR 2017](https://www.ire.org/events-and-training/event/2702/2938/), with a focus on Python "tribal knowledge"
+Materials for Intro to Python, with a focus on Python "tribal knowledge" (adapted from [Cathy Deng](https://twitter.com/cthydng)'s excellent [presentation ](https://www.ire.org/events-and-training/event/2702/2938/))
 
 
 ## Some context

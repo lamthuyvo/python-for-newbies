@@ -39,7 +39,7 @@ python
 ```
 Now you should see `>>>` at the beginning of each line. Here, you can type Python code & see output. For example:
 ```
-my_name = 'Cathy'
+my_name = 'Lam'
 '{} is learning Python!!'.format(my_name)
 ```
 To get out of the interactive shell:
