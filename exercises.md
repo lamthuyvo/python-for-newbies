@@ -1,6 +1,6 @@
 # Exercises
 
-These exercises go along with [these slides](http://bit.ly/python-for-newbies)
+These exercises go along with [these slides](http://bit.ly/cuny-python-newbies)
 
 ### A. Make sure you have Python
 To see what version of Python you have:
@@ -17,7 +17,7 @@ The easiest way to do this is with git (git is not the same thing as GitHub).
 
 At the command line, type:
 ```
-git clone https://github.com/cathydeng/python-for-newbies.git
+git clone https://github.com/lamthuyvo/python-for-newbies.git
 cd python-for-newbies
 ```
 Now you have all these files locally!
